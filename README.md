@@ -3,7 +3,7 @@
 A responsive wrap-style website inspired by end-of-year summaries, showcasing movies, music, web series, and games from 2025.
 
 ##  Live Demo
-https://shrutideveloper18.github.io/2025-wrap-website/
+ https://shrutideveloper18.github.io/2025-wrap-website/
 
 ## Features
 - Clean and modern dark UI
